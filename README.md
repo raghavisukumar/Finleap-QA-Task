@@ -8,7 +8,14 @@ I have presented the test case report "Finleap-Signin-Signup-Testcases.pdf" gene
 
 ## Automation 
 
-Selenium and Junit 5 based automation.
+This project contains automation of following page -
+* Sign up
+* Sign In
+
+TOOLS USED
+* Selenium
+* Junit 5
+* Maven
 
 ## Issues
 
