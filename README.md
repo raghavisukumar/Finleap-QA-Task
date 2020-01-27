@@ -17,6 +17,9 @@ TOOLS USED
 * Junit 5
 * Maven
 
+RESULT
+![Alt Text](https://github.com/raghavisukumar/Finleap-QA-Task/blob/master/Test%20Results.png)
+
 ## Issues
 
 I have attached the sheet "Finleap_Signup_Signin_Issues.xlsx" containing the list of issues found as part of Exploratory testing of Sign up and Sign In page.
